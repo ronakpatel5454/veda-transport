@@ -195,7 +195,7 @@ export const siteData = {
       capacity: "850 Kgs",
       dimensions: "7.2 x 4.8 x 4.8 Feet",
       bestFor: "Local retail delivery, narrow streets, home shifting items",
-      image: "https://images.unsplash.com/photo-1516576475861-13c58f000b0e?auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1508974239320-0a029497e820?auto=format&fit=crop&w=800&q=80",
       tag: "Light Duty"
     },
     {
@@ -219,7 +219,7 @@ export const siteData = {
       capacity: "5 - 9 Tons",
       dimensions: "14/17/19 x 7 x 7 Feet",
       bestFor: "Intercity parcels, plywood, machinery, warehouse stock",
-      image: "https://images.unsplash.com/photo-1592838064575-70ed626d3a44?auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1609520113718-8c9068f23666?auto=format&fit=crop&w=800&q=80",
       tag: "Medium Commercial"
     },
     {
@@ -235,7 +235,7 @@ export const siteData = {
       capacity: "20 - 40 Tons",
       dimensions: "40 x 8 x 8 Feet",
       bestFor: "Steel coils, heavy girders, automotive parts, ODC consignments",
-      image: "https://images.unsplash.com/photo-1501700490688-43b5f6350f58?auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1616432043562-3671ea2e5242?auto=format&fit=crop&w=800&q=80",
       tag: "Multi-Axle Trailer"
     }
   ],
@@ -313,17 +313,17 @@ export const siteData = {
     {
       title: "Express Commercial Fleet",
       category: "Fleet",
-      image: "https://images.unsplash.com/photo-1592838064575-70ed626d3a44?auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1609520113718-8c9068f23666?auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Secure Package Sorting",
       category: "Operations",
-      image: "https://images.unsplash.com/photo-1530587191325-3db32d826c18?auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1586781383963-8e66f88077ec?auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Interstate Container Freight",
       category: "Transit",
-      image: "https://images.unsplash.com/photo-1501700490688-43b5f6350f58?auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1616432043562-3671ea2e5242?auto=format&fit=crop&w=800&q=80"
     }
   ],
 

@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "predeploy": "npm run build",
-    "deploy": "node -e \"require('fs').writeFileSync('out/.nojekyll', '')\" && gh-pages -d out"
+    "deploy": "gh-pages -t -d out"
   },
   "dependencies": {
     "embla-carousel-react": "^8.6.0",

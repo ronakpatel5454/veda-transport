@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/veda-transport//_next/:path+",
+        "destination": "/veda-transport/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
